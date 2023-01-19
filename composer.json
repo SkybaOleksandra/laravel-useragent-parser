@@ -1,0 +1,19 @@
+{
+    "name": "oleksandra/laravel-useragent-parser",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravel\\UseragentParser\\": "./src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oleksandra"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "donatj/phpuseragentparser": "^1.7"
+    }
+}
